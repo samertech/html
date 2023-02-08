@@ -1,0 +1,56 @@
+.title {
+     
+  text-align: center;
+  
+}
+
+
+.principal h1 { 
+
+  padding: 30px;
+}
+
+.principal a{
+    text-decoration: unset;
+}
+
+.principal {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 5%;
+
+}
+
+
+.principal img{
+ max-width: 100px;
+}
+
+.principal section{
+
+    padding: 16px;
+    border: 1px solid;
+    max-width: 30%;
+}
+
+
+.anchor {
+text-decoration: none;
+font-family:"FontAwesome";
+color: black;
+font-size: 40px;
+}
+
+.article-js{
+    background: #ffff0017;
+    padding: 0 20px 20px;
+}
+.article-html{
+    background:rgb(228 77 38 / 9%);
+    padding: 0 20px 20px;
+}
+.article-css{
+    background:rgb(8 112 185 / 9%);
+    padding: 0 20px 20px;
+}

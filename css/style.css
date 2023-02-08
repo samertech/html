@@ -1,0 +1,50 @@
+.title {
+  text-align: center;
+}
+
+.principal h1 {
+  padding: 30px;
+}
+
+.principal a {
+  text-decoration: unset;
+}
+
+.principal {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-top: 5%;
+}
+
+.principal img {
+  max-width: 100px;
+}
+
+.principal section {
+  padding: 16px;
+  border: 1px solid;
+  max-width: 30%;
+}
+
+.anchor {
+  text-decoration: none;
+  font-family: "FontAwesome";
+  color: black;
+  font-size: 40px;
+}
+
+.article-js {
+  background: rgba(255, 255, 0, 0.0901960784);
+  padding: 0 20px 20px;
+}
+
+.article-html {
+  background: rgba(228, 77, 38, 0.09);
+  padding: 0 20px 20px;
+}
+
+.article-css {
+  background: rgba(8, 112, 185, 0.09);
+  padding: 0 20px 20px;
+}/*# sourceMappingURL=style.css.map */
